@@ -1,0 +1,12 @@
+.h-1{
+    padding: 10px 0;
+    font-size: 40px;
+    text-align: center;
+    text-decoration: underline;
+}
+.h1-js, .h1-jq{
+    margin-left: 100px;
+}
+.h1-js a, .h1-jq a{
+    margin-left: 20px;
+}
